@@ -22,16 +22,16 @@
         <scoped_administration>false</scoped_administration>
         <short_description>Application for testing scope protection</short_description>
         <source>x_cdltd_testing_ap</source>
-        <store_correlation_id/>
+        <store_correlation_id>REPOAPP0000001004</store_correlation_id>
         <store_url/>
         <sys_class_name>sys_app</sys_class_name>
         <sys_code/>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2021-07-22 19:22:06</sys_created_on>
         <sys_id>d9d2f449dd21b0107f442f357239c7e5</sys_id>
-        <sys_mod_count>1</sys_mod_count>
+        <sys_mod_count>2</sys_mod_count>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2021-07-22 19:25:21</sys_updated_on>
+        <sys_updated_on>2021-07-23 12:21:19</sys_updated_on>
         <template/>
         <trackable>true</trackable>
         <uninstall_blocked>false</uninstall_blocked>
